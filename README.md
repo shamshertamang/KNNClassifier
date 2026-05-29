@@ -18,4 +18,4 @@ Train: Test :: 8:2
 
 ## Conclusion
 
-Overall, the result is very good.
+Overall, the result is very good. For the exact scores, please check the last section of the jupyter notebook.
